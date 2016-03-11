@@ -1,6 +1,6 @@
 <?php
 
-class Blackbird_Merlinsearch_Model_Layer_Filter_Price extends Mage_Catalog_Model_Layer_Filter_Category {
+class Blackbird_Merlinsearch_Model_Layer_Filter_Price extends Mage_Catalog_Model_Layer_Filter_Price {
 
     const RESET_VALUE = '-';
 
